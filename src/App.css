@@ -1,0 +1,13 @@
+/****************************** Bootstrap 5 Color ******************************/
+.bg-indigo {
+  background-color: #6610f2;
+}
+
+.posterImages {
+  transition: 0.2s;
+}
+
+.posterImages:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
